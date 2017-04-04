@@ -51,8 +51,7 @@ var sassSrc = 'sass/**/*.{sass,scss}';
 var cssDest = '/Library/WebServer/Documents/css';
 var jsSrc = 'js';
 var jsDest = '/Library/WebServer/Documents/js';
-var markupSrc = '*.php';
-var markupDest = 'dist';
+var markupSrc = '/Library/WebServer/Documents';
 
 /*
 
